@@ -1,5 +1,6 @@
 import requests
 import csv
+import os
 
 
 def load_data(data_folder):
